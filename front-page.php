@@ -1,6 +1,6 @@
 <?php
 
-/* FRONT_PAGE.PHP */
+/* Develop branch  */
 
 /**
  * @package WordPress
