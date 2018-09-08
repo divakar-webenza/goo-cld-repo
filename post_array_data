@@ -1,0 +1,83 @@
+Array
+        (
+            [0] => WP_Post Object
+                (
+                    [ID] => 1174
+                    [post_author] => 1
+                    [post_date] => 2018-08-28 17:22:50
+                    [post_date_gmt] => 2018-08-28 11:52:50
+                    [post_content] => Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+                    [post_title] => Orion
+                    [post_excerpt] => 
+                    [post_status] => publish
+                    [comment_status] => open
+                    [ping_status] => closed
+                    [post_password] => 
+                    [post_name] => orion
+                    [to_ping] => 
+                    [pinged] => 
+                    [post_modified] => 2018-08-28 17:24:09
+                    [post_modified_gmt] => 2018-08-28 11:54:09
+                    [post_content_filtered] => 
+                    [post_parent] => 0
+                    [guid] => http://nimbleelectric.beta.webenza.in/?post_type=product&#038;p=1174
+                    [menu_order] => 0
+                    [post_type] => product
+                    [post_mime_type] => 
+                    [comment_count] => 0
+                    [filter] => raw
+                )
+
+            [1] => WP_Post Object
+                (
+                    [ID] => 1176
+                    [post_author] => 1
+                    [post_date] => 2018-08-28 17:59:59
+                    [post_date_gmt] => 2018-08-28 12:29:59
+                    [post_content] => This is Vayu product of torque motor
+                    [post_title] => Vayu
+                    [post_excerpt] => 
+                    [post_status] => publish
+                    [comment_status] => open
+                    [ping_status] => closed
+                    [post_password] => 
+                    [post_name] => vayu
+                    [to_ping] => 
+                    [pinged] => 
+                    [post_modified] => 2018-08-28 19:32:56
+                    [post_modified_gmt] => 2018-08-28 14:02:56
+                    [post_content_filtered] => 
+                    [post_parent] => 0
+                    [guid] => http://nimbleelectric.beta.webenza.in/?post_type=product&#038;p=1176
+                    [menu_order] => 0
+                    [post_type] => product
+                    [post_mime_type] => 
+                    [comment_count] => 0
+                    [filter] => raw
+                )
+
+        )
+
+
+WP_Term Object
+(
+    [term_id] => 58
+    [name] => Torque Motor
+    [slug] => torque-motor
+    [term_group] => 0
+    [term_taxonomy_id] => 58
+    [taxonomy] => product_cat
+    [description] => <ul>
+   <li>High torque density</li>
+   <li>Adaptable directly onto application</li>
+   <li>Exceptional peak force density in the magnetic gap</li>
+   <li>Unparalled thermal efficiency</li>
+   <li>Higher efficiency</li>
+   <li>Superlative dielectric strength</li>
+   <li>Powerful high temperature grade neodymium magnets</li>
+   <li>Halogen free cables</li>
+</ul>
+    [parent] => 0
+    [count] => 2
+    [filter] => raw
+)
