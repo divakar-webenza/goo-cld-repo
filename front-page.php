@@ -1,6 +1,6 @@
 <?php
 
-/* This is  programming unit of the command */
+/* Feature branch */
 
 /**
  * @package WordPress
