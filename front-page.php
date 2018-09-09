@@ -1,6 +1,9 @@
 <?php
 
+<<<<<<< HEAD
 /* Master branch */
+/* Develop branch  */
+
 
 /**
  * @package WordPress
