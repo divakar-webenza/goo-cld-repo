@@ -1,8 +1,8 @@
 <?php
 
-<<<<<<< HEAD
 /* Master branch */
 /* Develop branch  */
+/* Feature branch */
 
 
 /**
